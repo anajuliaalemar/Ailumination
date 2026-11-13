@@ -31,7 +31,7 @@ O agente aceita ilustrações e aplica a atmosfera baseada nas preferências ou 
 1. Acesse o **Google AI Studio**.
 2. Crie um novo chat/prompt (*Chat prompt*).
 3. No painel lateral direito de configurações, selecione o modelo **Nano Banana 2 Lite** (`gemini-3.1-flash-lite-image`) para garantir a fidelidade de imagem e edição adequadas.
-4. Copie o prompt estruturado disponível na pasta `/prompts` deste repositório e cole nas **System instructions**.
+4. Copie o prompt estruturado disponível no arquivo **`prompt.md`** na raiz deste repositório e cole nas **System instructions**.
 5. Envie sua ilustração junto com suas preferências de luz (opcional)!
 
 ---
